@@ -18,6 +18,7 @@ def branch(n):
 
     # Find the bracketing odd square roots either side of n
     root = n ** 0.5
+    # l 和 h 分别代表了数字 n 所处的环中最小的奇数和最大的奇数
     l = floor(root) - (floor(root) % 2 == 0)
     h = ceil(root) + (ceil(root) % 2 == 0)
     print("l:", l, "h:", h)
