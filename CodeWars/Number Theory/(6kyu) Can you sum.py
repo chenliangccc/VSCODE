@@ -15,3 +15,10 @@ def f(n):
     return (4 * g2(n) + 2 * (g1(n) - 1) + 2) % M
     # WolframAlpha:
     # return 2 * (pow(2, n, M) * (n * n - 2 * n + 3) - 3) % M
+
+
+def f(n: int) -> int:
+    CNST = 10**9 + 7
+    m1, m2 = pow(2, n+1, CNST), (n**2 - 2*n + 3) % CNST
+
+    return (m1 * m2 - 6) % CNST

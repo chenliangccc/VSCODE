@@ -23,6 +23,3 @@ def distance(n):
     offset = abs(position % edge_length - (edge_length // 2))
 
     return layer - 1 + offset
-
-
-print((distance(25)))
