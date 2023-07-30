@@ -15,12 +15,13 @@ from collections import Counter
 def self_descriptive(num):
     s = [int(a) for a in str(num)]
     cnt = Counter(s)
-    return all(cnt[i] == b for i,b in enumerate(s))
+    print(cnt)
+    return all(cnt[i] == b for i, b in enumerate(s))
 
     # digits = list(str(num))
     # counts = [0] * len(digits)
     # print(counts)
-    
+
     # # 统计每个数字的出现次数
     # for digit in digits:
     #     if not digit.isdigit():
@@ -28,7 +29,7 @@ def self_descriptive(num):
     #     if int(digit) >= len(counts):
     #         return False
     #     counts[int(digit)] += 1
-    
+
     # '''
     # # 检查每个数字的出现次数是否与数字本身等
     # for i in range(len(digits)):

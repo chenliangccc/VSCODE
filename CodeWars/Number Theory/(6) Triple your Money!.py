@@ -27,9 +27,7 @@ def f(n):
     if n == 0:
         return 0
     k = 3 ** math.floor(math.log(n, 3))
-    if n < 2*k:
-        return n+k
-    return 3 * (n-k)
+    return n+k if n < 2*k else 3 * (n-k)
 
 
 print(f(6))
