@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69a04682-2958-4493-a14a-cdccb3f05564" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Uz1fGa1B159KY8tHlOnopUt1xB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69a04682-2958-4493-a14a-cdccb3f05564" name="Default Changelist" comment="" />
+      <created>1693927696264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693927696264</updated>
+      <workItem from="1693927701741" duration="127000" />
+      <workItem from="1693927843666" duration="338000" />
+      <workItem from="1693935303374" duration="2553000" />
+      <workItem from="1693938407272" duration="470000" />
+      <workItem from="1693938899277" duration="287000" />
+      <workItem from="1693939201261" duration="130000" />
+      <workItem from="1693939343914" duration="230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="311" key="#Custom_Plugin_Repositories" timestamp="1693936800490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="311" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1693936800490" />
+    <state x="539" y="130" key="#HTTP_Proxy" timestamp="1693936805820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="539" y="130" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1693936805820" />
+    <state x="496" y="178" width="562" height="457" key="#Vim_Emulation" timestamp="1693937328033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="178" width="562" height="457" key="#Vim_Emulation/0.0.1536.824@0.0.1536.824" timestamp="1693937328033" />
+    <state x="504" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1693935948722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1693935948722" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1693927735465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1693927735465" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1693939578062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1693939578062" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1693937775453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1693937775453" />
+  </component>
+</project>

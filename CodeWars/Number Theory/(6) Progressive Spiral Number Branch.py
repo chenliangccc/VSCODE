@@ -17,7 +17,7 @@ def branch(n):
     print("n:", n, "ring:", ring, "edge_length:", edge_length)
 
     # Find the bracketing odd square roots either side of n
-    root = n ** 0.5
+    root = n**0.5
     # l 和 h 分别代表了数字 n 所处的环中最小的奇数和最大的奇数
     l = floor(root) - (floor(root) % 2 == 0)
     h = ceil(root) + (ceil(root) % 2 == 0)
@@ -26,7 +26,7 @@ def branch(n):
         # n is an odd square number(the end of this ring) i.e n = (k + 1) ** 2
         l -= 2
     #! First number in ring
-    base = l ** 2 + 1
+    base = l**2 + 1
     print("base: ", base)
     print("return: ", (n - base) // edge_length)
     return (n - base) // edge_length
